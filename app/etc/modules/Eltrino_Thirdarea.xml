@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <Eltrino_Thirdarea>
+            <active>true</active>
+            <codePool>local</codePool>
+        </Eltrino_Thirdarea>
+    </modules>
+</config>
